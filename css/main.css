@@ -1,0 +1,8 @@
+body {
+    position: relative;
+    background: url("../img/FF7Midgar.jpg") center center;/*slide.jpg =>you image*/    
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
