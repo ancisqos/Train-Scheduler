@@ -11,3 +11,15 @@ Train Scheduler is an application that incorporates Firebase to host arrival and
 	You will see a page with a header and table like this:
 
 	<img src="/img/pic1.PNG" alt=sql-1>
+
+2. Scroll down and you will see a submission form with the fields "Train Name", "Destination", "First Train Time", and "Frequency"
+
+	<img src="/img/pic2.PNG" alt=sql-1>
+
+3. Fill in the fields
+
+	<img src="/img/pic3.PNG" alt=sql-1>
+
+4. Click submit and you will receive an alert that your train has been added and you will see it appended to the table.
+
+	<img src="/img/pic4.PNG" alt=sql-1>
